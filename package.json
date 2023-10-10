@@ -2,7 +2,7 @@
     "name": "install-test",
     "version": "0.2.0",
     "main": "index.js",
-    "peerDependencies": {
+    "dependencies": {
         "jquery": "2.2.3"
     }
 }
