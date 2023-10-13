@@ -3,6 +3,6 @@
     "version": "0.2.0",
     "main": "index.js",
     "dependencies": {
-        "putout": "^32.2.2"
+        "putout": "^32.0.0"
     }
 }
