@@ -2,7 +2,7 @@
     "name": "install-test",
     "version": "0.2.0",
     "main": "index.js",
-    "dependencies": {
-        "relay-runtime": "0.0.0-main-86d355c1"
+    "scripts": {
+        "prepare": "bun index.js"
     }
 }
