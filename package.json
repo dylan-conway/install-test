@@ -2,15 +2,7 @@
     "name": "install-test",
     "version": "0.2.0",
     "main": "index.js",
-    "peerDependenciesMeta": {
-        "jquery": {
-            "optional": true
-        }
-    },
-    "devDependencies": {
-        "jquery": "3.7.1"
-    },
-    "peerDependencies": {
-        "jquery": "3.7.1"
+    "scripts": {
+        "postinstall": "bun postinstall.js"
     }
 }
